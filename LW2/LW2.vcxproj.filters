@@ -19,4 +19,8 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Лаб. Раб. 2 Плоцкий Фальгаров доп.docx" />
+    <None Include="..\..\Лаб. Раб. 2 Плоцкий Фальгаров.docx" />
+  </ItemGroup>
 </Project>
